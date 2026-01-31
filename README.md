@@ -1,5 +1,5 @@
 # Data-Mining-Assignment
-Data Mining Assignment of (ATP22CS017) S8 CSE
+Data Mining Assignment of Arjun P (ATP22CS017) S8 CSE
 
 # Student Performance Prediction using Decision Trees
 
