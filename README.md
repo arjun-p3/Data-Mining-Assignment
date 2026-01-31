@@ -56,6 +56,7 @@ The model was evaluated on the test set using standard classification metrics:
 - `sklearn`
 
 ## Author
+- Arjun P
 - Roll Number: ATP22CS017
 - Class: S8 CSE
 
